@@ -21,7 +21,7 @@ This is a public repository for R code snippets that I'd like to share.
 
 ## Usage
 
-To use this code, either copy and paste the code from the file, or download the `read_csv.R` file locally and use the R code within your own notebooks or scripts.
+To use this code, either copy and paste the code from the file, or download the respective file above and use the R code within your own notebooks or scripts.
 
 ## Authors
 - Arun Godwin Patel
