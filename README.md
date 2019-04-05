@@ -18,6 +18,10 @@ This is a public repository for R code snippets that I'd like to share.
 - This code filters a dataframe into its necessary column, then it calculates a pearson R correlation matrix. Finally it plots a correlation plot.
 - I have added some aesthetic additions that I like to use to make the plot clear, as well as the option to be able to choose a colour palette. 
 
+#### create_and_plot_time_series.R
+- This code converts a dataframe into a time series object between a defined start and end date.
+- This makes for nice plotting of time series data as well as forecasting.
+
 
 ## Usage
 
