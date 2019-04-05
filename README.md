@@ -22,6 +22,10 @@ This is a public repository for R code snippets that I'd like to share.
 - This code converts a dataframe into a time series object between a defined start and end date.
 - This makes for nice plotting of time series data as well as forecasting.
 
+#### if_else_for.R
+- This code is a template for an if, else statement with an embedded for loop, to iterate over an object. 
+- This is useful for feature engineering, data transformation, creating functions and so on...
+
 
 ## Usage
 
