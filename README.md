@@ -35,6 +35,10 @@ This is a public repository for R code snippets that I'd like to share.
 - It includes some nice aesthetic features to make the plot look clean and readable. 
 - In the code, I have used bar plots, but any other plot can be easily used and organised into a grid using this code a as a template.
 
+#### while_loop.R
+- This code is a very short and simple template for a while loop in R.
+- Specify the boolean condition within the parentheses before, and add your process steps within the {}.
+
 
 ## Usage
 
