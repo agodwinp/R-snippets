@@ -26,6 +26,10 @@ This is a public repository for R code snippets that I'd like to share.
 - This code is a template for an if, else statement with an embedded for loop, to iterate over an object. 
 - This is useful for feature engineering, data transformation, creating functions and so on...
 
+#### multiple_time_series_plot.R
+- This code plots three time series on a single plot.
+- It also includes some nice aesthetic additions, labelling and custom colouring of the time series.
+
 
 ## Usage
 
