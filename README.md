@@ -30,6 +30,11 @@ This is a public repository for R code snippets that I'd like to share.
 - This code plots three time series on a single plot.
 - It also includes some nice aesthetic additions, labelling and custom colouring of the time series.
 
+#### plot_grid.R
+- This plot produces 4 plots and organises them into a 2x2 grid.
+- It includes some nice aesthetic features to make the plot look clean and readable. 
+- In the code, I have used bar plots, but any other plot can be easily used and organised into a grid using this code a as a template.
+
 
 ## Usage
 
